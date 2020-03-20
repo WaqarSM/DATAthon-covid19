@@ -1406,8 +1406,8 @@ window.Modernizr = (function( window, document, undefined ) {
 })(this, this.document);
 
 /*
-     FILE ARCHIVED ON 15:44:28 Mar 05, 2020 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:23:20 Mar 20, 2020.
+     FILE ARCHIVED ON 09:18:04 Mar 05, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:40:20 Mar 20, 2020.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -1415,14 +1415,14 @@ window.Modernizr = (function( window, document, undefined ) {
 */
 /*
 playback timings (ms):
-  exclusion.robots.policy: 0.207
-  captures_list: 1086.232
-  exclusion.robots: 0.225
-  load_resource: 115.135
-  LoadShardBlock: 215.059 (4)
-  esindex: 0.017
-  RedisCDXSource: 2.094
-  PetaboxLoader3.datanode: 205.785 (5)
-  CDXLines.iter: 84.939 (4)
-  PetaboxLoader3.resolve: 84.469
+  PetaboxLoader3.resolve: 46.013
+  exclusion.robots.policy: 0.141
+  captures_list: 935.805
+  load_resource: 60.622
+  RedisCDXSource: 1.79
+  exclusion.robots: 0.15
+  CDXLines.iter: 73.058 (4)
+  PetaboxLoader3.datanode: 71.196 (5)
+  LoadShardBlock: 76.284 (4)
+  esindex: 0.011
 */

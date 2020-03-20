@@ -288,7 +288,7 @@ cd=(new Date).getTime();
 
 /*
      FILE ARCHIVED ON 01:40:41 Feb 20, 2020 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:21:49 Mar 20, 2020.
+     INTERNET ARCHIVE ON 21:41:24 Mar 20, 2020.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -296,14 +296,14 @@ cd=(new Date).getTime();
 */
 /*
 playback timings (ms):
-  captures_list: 473.034
-  exclusion.robots: 0.199
-  exclusion.robots.policy: 0.185
-  CDXLines.iter: 13.251 (3)
-  PetaboxLoader3.datanode: 448.66 (4)
-  LoadShardBlock: 433.546 (3)
-  esindex: 0.017
-  load_resource: 558.828
-  PetaboxLoader3.resolve: 538.403
-  RedisCDXSource: 6.61
+  captures_list: 503.883
+  exclusion.robots: 0.154
+  exclusion.robots.policy: 0.145
+  CDXLines.iter: 14.184 (3)
+  PetaboxLoader3.datanode: 451.983 (4)
+  LoadShardBlock: 463.641 (3)
+  esindex: 0.01
+  load_resource: 73.987
+  PetaboxLoader3.resolve: 45.426
+  RedisCDXSource: 0.598
 */

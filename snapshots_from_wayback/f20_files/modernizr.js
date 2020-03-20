@@ -1407,7 +1407,7 @@ window.Modernizr = (function( window, document, undefined ) {
 
 /*
      FILE ARCHIVED ON 01:33:59 Feb 20, 2020 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:21:41 Mar 20, 2020.
+     INTERNET ARCHIVE ON 21:41:17 Mar 20, 2020.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -1415,14 +1415,14 @@ window.Modernizr = (function( window, document, undefined ) {
 */
 /*
 playback timings (ms):
-  CDXLines.iter: 134.429 (4)
-  PetaboxLoader3.resolve: 87.959 (2)
-  esindex: 0.013
-  captures_list: 1693.403
-  PetaboxLoader3.datanode: 255.637 (6)
-  RedisCDXSource: 2.933
-  load_resource: 199.427
-  exclusion.robots.policy: 0.194
-  exclusion.robots: 0.207
-  LoadShardBlock: 232.179 (4)
+  exclusion.robots: 0.303
+  load_resource: 214.094
+  esindex: 0.021
+  PetaboxLoader3.datanode: 248.79 (6)
+  exclusion.robots.policy: 0.28
+  CDXLines.iter: 83.454 (4)
+  RedisCDXSource: 21.445
+  PetaboxLoader3.resolve: 212.968 (3)
+  LoadShardBlock: 310.056 (4)
+  captures_list: 1422.087
 */
