@@ -1,0 +1,179 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<!--[if lt IE 9]><!--><script type="text/javascript" src="/sites/all/themes/ontario/scripts/html5shiv.js"></script> <!--<![endif]-->
+
+<head>
+<!--
+
+
+          MM,
+         MMMMMMM
+         MM   MMMM MM
+         MM     .MM MM
+        .M~        : MM     MMM
+         M            MMM  MMM
+         M.            MMM
+       M M             MMMMMMMMMMMMMMMMMM~
+       M               MMMMMMMMMMD
+       MM              MMMMMM        MMMMMMMM=
+        M             DMMM                MMMMMMMMM
+        MM            MM                      MMMMMMMM
+        =MM,                                     8MMMMMMM
+         MMMMM.                                  MMMMMM
+     MM: MMMMMMM                              NMMMMM
+    .MMM MMMMMD                             MMMMMN
+        MMMM.        .                  IMMMMM
+       MMM           MMMM          .MMMMM:.                  MMMMMMMMMM                                                                MM
+      .MD            MMMMMMM            M                  MMMMMMMMMMMMMM                         MM$                                .MMMM
+     .M              MMMMMMMMMMMMMMMMMMZ                 DMMMM.       MMMM                       MMM$                                 ~MM
+     M               MMMMMMMMMM                         OMMMN          MMMM                      MMM$
+    MM               MMMM                              .MMMM            MMMM   MMM   MMMMMM      MMMMMMMM     MMMMMMM      MMM   MMM  MMM$       MMMMMMM.
+    M M             MMM  MMM                           MMMM              MMMN  MMM MMMMMMMMMM  MMMMMMMMMM   MMMMMMMMMMM    MMM MMMMM  MMM$    NMMMMMMMMMMM
+     M             MMM.  MMMM                          MMMM              MMMM  MMMMM.     MMM.   MMM$       M      .MMMM   MMMMMM     MMM$   MMMM.     ~MMM=
+    MM             MM     MM                           MMM=              MMMM  MMMM       7MMM   MMM$                MMM   MMMM       MMM$  ,MMM         MMM
+    MM         N  MD                                   MMM$              MMMM  MMMM        MMM   MMM$                MMM   MMMM       MMM$  MMM,         MMMM
+   MM        MM IM                                     MMMM              MMMM  MMM.        MMM   MMM$       DMMMMMMMMMMM   MMM.       MMM$  MMM          =MMM
+   MM      MMM MM                                      $MMM              MMM.  MMM         MMM   MMM$      MMMM:     MMM   MMM        MMM$  MMM          $MMM
+   MM   .MMM  M                                         MMMM           .MMMM   MMM         MMM   MMM$     MMMM       MMM   MMM        MMM$  MMMM         MMMO
+  MMM MMMMM                                              MMMM          MMMM    MMM         MMM   MMMM     MMMI      .MMM   MMM        MMM$   MMM        :MMM.
+  MMMMMMM                                                 MMMMM     ,MMMMM     MMM         MMM   MMMM     MMMM     ZMMMM.  MMM        MMM$    MMMM     MMMM
+  MMMM                                                     ~MMMMMMMMMMMM       MMM         MMM   .MMMMMMM  MMMMMMMMMMDMM   MMM        MMM$     MMMMMMMMMMM
+  M .                                                          MMMMMM                               MMMMM   . MMMM,  .                            MMMMM
+
+-->
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/8595" />
+<link rel="shortcut icon" href="http://www.ontario.ca/sites/all/themes/ontario/images/trillium.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/Government%20of%20Ontario%2C%20Canada" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Government of Ontario, Canada | Ontario.ca</title>
+<style>@import url("/modules/system/system.base.css?mp4pfv");
+@import url("/modules/system/system.menus.css?mp4pfv");
+@import url("/modules/system/system.messages.css?mp4pfv");
+@import url("/modules/system/system.theme.css?mp4pfv");</style>
+<style>@import url("/sites/all/modules/date/date_api/date.css?mp4pfv");
+@import url("/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?mp4pfv");
+@import url("/modules/field/theme/field.css?mp4pfv");
+@import url("/modules/node/node.css?mp4pfv");
+@import url("/modules/search/search.css?mp4pfv");
+@import url("/modules/user/user.css?mp4pfv");
+@import url("/sites/all/modules/views/css/views.css?mp4pfv");</style>
+<style>@import url("/sites/all/modules/ckeditor/ckeditor.css?mp4pfv");
+@import url("/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_stockholmsyndrome.css?mp4pfv");
+@import url("/sites/all/modules/ctools/css/ctools.css?mp4pfv");</style>
+<style media="screen">@import url("/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?mp4pfv");
+@import url("/sites/all/themes/ontario/css/globals.css?mp4pfv");
+@import url("/sites/all/themes/ontario/css/grid.css?mp4pfv");</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/adaptivetheme/ontario_files/ontario.responsive.layout.css?mp4pfv" media="only screen" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/ontario/css/responsive.desktop.css?mp4pfv" media="only screen and (min-width:980px)" />
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<style media="screen">@import url("/sites/default/files/adaptivetheme/ontario_files/ontario.lt-ie9.layout.css?mp4pfv");</style>
+<![endif]-->
+<link href='//fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+<script src="/misc/jquery.js?v=1.4.4"></script>
+<script src="/misc/jquery.once.js?v=1.2"></script>
+<script src="/misc/drupal.js?mp4pfv"></script>
+<script src="/sites/all/modules/waypoints/waypoints.min.js?v=1.0.2"></script>
+<script src="/misc/ajax.js?v=7.22"></script>
+<script src="/sites/all/modules/colorbox_node/colorbox_node.js?mp4pfv"></script>
+<script src="/sites/all/modules/contentanalysis/contentanalysis.js?mp4pfv"></script>
+<script src="/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?mp4pfv"></script>
+<script src="/sites/all/modules/colorbox/js/colorbox.js?mp4pfv"></script>
+<script src="/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_stockholmsyndrome.js?mp4pfv"></script>
+<script src="/sites/all/modules/colorbox/js/colorbox_load.js?mp4pfv"></script>
+<script src="/sites/all/modules/colorbox/js/colorbox_inline.js?mp4pfv"></script>
+<script src="/sites/all/themes/ontario/scripts/explore.js?mp4pfv"></script>
+<script src="/sites/all/themes/ontario/scripts/print.js?mp4pfv"></script>
+<script src="/misc/progress.js?v=7.22"></script>
+<script src="/sites/all/themes/ontario/scripts/faq.js?mp4pfv"></script>
+<script src="/sites/all/themes/ontario/scripts/hashtarget.js?mp4pfv"></script>
+<script src="/sites/all/themes/ontario/scripts/jquery-collision-1.0.1.min.js?mp4pfv"></script>
+<script src="/sites/all/themes/ontario/scripts/collision.js?mp4pfv"></script>
+<script src="/sites/all/themes/adaptivetheme/at_core/scripts/scalefix.js?mp4pfv"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ontario","theme_token":"gV0BsESBHaUaDaROsCKfy6fPyMdlEH18bcU_OP97Sd8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/waypoints\/waypoints.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_stockholmsyndrome.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"\/sites\/all\/themes\/ontario\/scripts\/explore.js":1,"\/sites\/all\/themes\/ontario\/scripts\/print.js":1,"misc\/progress.js":1,"sites\/all\/themes\/ontario\/scripts\/faq.js":1,"sites\/all\/themes\/ontario\/scripts\/hashtarget.js":1,"sites\/all\/themes\/ontario\/scripts\/jquery-collision-1.0.1.min.js":1,"sites\/all\/themes\/ontario\/scripts\/collision.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_stockholmsyndrome.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/ontario\/css\/globals.css":1,"sites\/all\/themes\/ontario\/css\/grid.css":1,"public:\/\/adaptivetheme\/ontario_files\/ontario.responsive.layout.css":1,"sites\/all\/themes\/ontario\/css\/responsive.desktop.css":1,"public:\/\/adaptivetheme\/ontario_files\/ontario.lt-ie9.layout.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"100","fixed":true,"scrolling":true,"__drupal_alter_by_ref":["stockholmsyndrome"]},"solr_query_server":"\/\/search.ontariogovernment.ca:8080\/solr\/combined","og":{"og_context":{"gid":"31","etid":"89","entity_type":"node","label":"Cabinet Office","state":"1","created":"1342716930","rdf_mapping":[]}}});</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/ontario/scripts/waypoints.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/sites/all/themes/ontario/scripts/jquery.infinitescroll.js"></script>
+<script type="text/javascript" src="/sites/all/libraries/galleria/galleria-1.2.8.min.js"></script>
+<script type="text/javascript" src="/sites/all/libraries/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/ontario/scripts/equalize.js"></script>
+<script type="text/javascript">
+  var $jq = jQuery.noConflict();
+</script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" >
+    <meta name="DC.title" lang="eng" content="Government of Ontario, Canada" >
+    <meta name="DC.creator" content="Government of Ontario" >
+    <meta name="DC.subject" lang="eng" content="" >
+    <meta name="DC.description" lang="eng" content="Ontario.ca – the official place to find Government of Ontario information and services" >
+    <meta name="DC.publisher" content="Government of Ontario" >
+    <meta name="DC.date" content="2013-06-05" >
+    <meta name="DC.date.created" content="2013-06-05" >
+    <meta name="DC.date.published" content="2012-10-05" >
+    <meta name="DC.date.modified" content="2013-06-19" >
+    <meta name="DC.format" content="text/html" >
+    <meta name="DC.identifier" content="http://www.ontario.ca/Government of Ontario, Canada" >
+    <meta name="DC.language" content="eng" >
+    <meta name="DC.rights.intellectualProperty" content="Queen's Printer for Ontario, 2012-13" >
+    <meta name="DC.audience" content="" >
+    <meta name="DC.type" content="information" >
+    <meta name="DC.contributor" content="Cabinet Office" >
+    <meta name="go.version" content="11264" >
+    <meta name="go.contact.content" content="website.contact@ontario.ca" >
+    <meta name="keywords" content="" >
+    <meta name="robots" content="NOODP" >
+        </head>
+
+<body  class="html front not-logged-in no-sidebars page-node page-node- page-node-8595 node-type-splash group-context group-context-group-31 group-context-node group-context-node-89 i18n-en site-name-hidden">
+
+  
+    <img src="/sites/default/files/welcome_splash_mountains_1020x680.jpg" alt="Sleeping Giant Provincial Park" id="spotlightImage">
+<section id="splashPage">
+  <header>
+    <div class="wrapper">
+      <div id="brand"><a href="https://www.ontario.ca"><img src="/sites/all/themes/ontario/images/logo-black.png" alt="Government of Ontario, Canada"></a></div>
+              <form onsubmit="if($jq('#edit-search-block-form--2').val()==&#039;How can we help you?&#039;){ query.value = ''; }" action="/government/search-results" method="get" id="search-block-form" accept-charset="UTF-8" autocomplete="off">
+          <div class="form-item form-type-textfield form-item-search-block-form">
+            <label class="element-invisible" for="edit-search-block-form--2">Search</label>
+            <input type="search" id="edit-search-block-form--2" name="query" maxlength="128" class="form-text splashSearch" value="How can we help you?"  onfocus="if (this.value == 'How can we help you?') {this.value = '';}" onblur="if (this.value == '') {this.value = 'How can we help you?';}"/>
+          </div>
+          <div class="form-actions form-wrapper form-action-search-block-form" id="edit-actions-search">
+            <label class="element-invisible" for="edit-submit-search">Submit search</label>
+            <input type="submit" id="edit-submit-search" name="op" value="Search" class="form-submit" />
+          </div>
+        </form>
+    </div>
+  </header>
+  <nav>
+    <div class="wrapper">
+      <div id="langBtn">
+        <p>
+          <a href="/welcome-ontario">English</a>
+                      <a href="fr/bienvenue-en-ontario">Fran&ccedil;ais</a>
+                  </p>
+      </div>
+    </div>
+  </nav>
+</section>
+  <aside id="info">Photo: Sleeping Giant Provincial Park</aside>
+<script type="text/javascript">
+  var solr_query_server = "http://search.ontariogovernment.ca:8080/solr/combined";
+  var lang = "";
+</script>
+<script type="text/javascript" src="/sites/all/themes/ontario/scripts/splash.js"></script>
+  <div class="region region-page-bottom"><div class="region-inner clearfix"><div style="display:none"><div id="cboxNode"></div></div><div id="cboxNodeJS"></div></div></div><!-- Script for statistics -->
+<script src='//www.webservices.gov.on.ca/ontario.php?m=31'></script>
+</body>
+</html>
+
